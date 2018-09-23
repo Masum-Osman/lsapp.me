@@ -1,0 +1,20 @@
+{
+  "name": "lsapp",
+  "version": "1.0.0",
+  "description": "<p align=\"center\"><img src=\"https://laravel.com/assets/img/components/logo-laravel.svg\"></p>",
+  "main": "webpack.mix.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Masum-Osman",
+  "license": "MIT"
+}
+
+/*npm sucks me a lot. then I realised that, that is not so much important then learning Laravel. 
+I can add css in my app.css file
+so I decided to left npm on there and go further on Learning Laravel. 
+I will Learn npm Insha ALLAH when I would learn JavaScript*/
